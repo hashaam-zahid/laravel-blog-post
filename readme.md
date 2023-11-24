@@ -1,5 +1,18 @@
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
-=> php artisan Commands Required:
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+</p>
+
+# Laravel Blog Post Project by [Hashaam Zahid]
+
+This project is a Laravel-based Blog Post application that incorporates various features including a contact page, Laravel Jobs, Middleware, Laravel Request, Laravel Resources for JSON API, Eloquent ORM, NPM packages for asset management (SCSS, JavaScript), file handling, and user policy for access restriction.
+
+
+# php artisan Commands Required
 
 php artisan make:migration
 php artisan make:request
@@ -18,18 +31,15 @@ php artisan make:seed
 php artisan make:factory
 php artisan serve
 
-=> npmp Commands 
+# Node Packages Commands Required 
 
 npm install 
 
-=>composer commands
+# Composer Commands Required
 
 composer update 
 composer dump-autoload
 
-# Laravel Blog Post Project by [Hashaam Zahid]
-
-This project is a Laravel-based Blog Post application that incorporates various features including a contact page, Laravel Jobs, Middleware, Laravel Request, Laravel Resources for JSON API, Eloquent ORM, NPM packages for asset management (SCSS, JavaScript), file handling, and user policy for access restriction.
 
 ## Features
 
@@ -50,15 +60,15 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/hashaam-zahid/laravel-blog-post.git
     ```
 
 2. Install dependencies:
 
-    ```bash
+ 
     composer install
     npm install
-    ```
+ 
 
 3. Set up environment variables:
 
