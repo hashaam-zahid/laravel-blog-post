@@ -15,20 +15,35 @@ This project is a Laravel-based Blog Post application that incorporates various 
 # php artisan Commands Required
 
 php artisan make:migration
+<br/>
 php artisan make:request
+<br/>
 php artisan make:mail
+<br/>
 php artisan make:job
+<br/>
 php artisan queue:table
+<br/>
 php artisan queue:work 
+<br/>
 php artisan make:auth
+<br/>
 php artisan make:resource
+<br/>
 php artisan make:middleware
+<br/>
 php artisan make:Policy
+<br/>
 php artisan migrate
+<br/>
 php artisan make:controller
+<br/>
 php artisan make:model
+<br/>
 php artisan make:seed 
+<br/>
 php artisan make:factory
+<br/>
 php artisan serve
 
 # Node Packages Commands Required 
