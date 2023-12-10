@@ -13,7 +13,7 @@ This project is a Laravel-based Blog Post application that incorporates various 
 
 
 # php artisan Commands Required
-
+```
 php artisan make:migration
 <br/>
 php artisan make:request
@@ -45,6 +45,7 @@ php artisan make:seed
 php artisan make:factory
 <br/>
 php artisan serve
+```
 
 # Node Packages Commands Required 
 
@@ -52,9 +53,10 @@ npm install
 
 # Composer Commands Required
 
+```
 composer update 
 composer dump-autoload
-
+```
 
 ## Features
 
